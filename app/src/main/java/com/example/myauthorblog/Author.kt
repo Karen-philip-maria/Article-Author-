@@ -9,3 +9,4 @@ data class Author(
     val authorProfilePhoto: String,
     val fullPostUrl: String
 )
+
